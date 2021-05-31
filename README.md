@@ -1,6 +1,13 @@
 # TIA
 
-The Special Projects Team is creating a WordPress website for [Turn It Around]( https://# "Named link title"). The website will be a photo-centric WordPress website that embraces Turn It Around's latest branding. Beyond WordPress Core, the following items will be incorporated:
+The Special Projects Team is creating a WordPress website for [Turn It Around]( https://# "Named link title"). The website will be a photo-centric WordPress website that embraces Turn It Around's latest branding. 
+
+* **Content**
+   * Media Library will be imported from curent website
+   * Pages and posts will be imported from curent website
+
+
+Beyond WordPress Core, the following items will be incorporated:
 
 * **WooCommerce**
   * Swag Shop: [WooCommerce](https://woocommerce.com/ "Named link title")
