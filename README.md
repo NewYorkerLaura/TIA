@@ -9,4 +9,4 @@ The Special Projects Team is creating a WordPress website for [Turn It Around]( 
   * Donations: [WooCommerce Donations](https://woocommerce.com/products/donation-product-for-woocommerce/ "Named link title")
     * Donor informaiton collected will sync [with Turn It Around's Zoho CRM]( https://docs.woocommerce.com/document/woocommerce-customers-zoho-crm/  "Named link title")
 * **Newsletter Sign ups**
-  * Informaiton collected will sync with [Turn It Around's Mailchimp Account]( https://#  "Named link title")
+  * Information collected will sync with [Turn It Around's Mailchimp Account]( https://#  "Named link title")
